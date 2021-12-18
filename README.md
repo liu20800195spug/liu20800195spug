@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi I'm Gaboso o:
+
+![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+
+:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
